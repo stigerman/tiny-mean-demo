@@ -1,3 +1,8 @@
+/Server Side Controller/
+
+
+
+
 var Meetup = require('../Models/Meetups.js');
 
 module.exports.create = function(req, res){
